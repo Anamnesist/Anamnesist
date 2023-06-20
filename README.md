@@ -1,5 +1,6 @@
 
-- 🌱 Yo estoy aprendiendo
+- 🌱 I’m currently learning ...
+
 
 <!---
 Anamnesist/Anamnesist Estoy aprendiendo GITHUB
